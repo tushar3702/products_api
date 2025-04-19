@@ -1,0 +1,65 @@
+[
+    {
+      "name": "iPhone 14 Pro",
+      "featured": true,
+      "price": 1299,
+      "company": "apple"
+    },
+    {
+      "name": "Samsung Galaxy S23",
+      "price": 999,
+      "company": "samsung"
+    },
+    {
+      "name": "Redmi Note 12",
+      "price": 299,
+      "company": "mi"
+    },
+    {
+      "name": "Dell XPS 13",
+      "price": 1399,
+      "company": "dell"
+    },
+    {
+      "name": "iPad Air",
+      "featured": true,
+      "price": 799,
+      "company": "apple"
+    },
+    {
+      "name": "Samsung Galaxy Tab S8",
+      "price": 699,
+      "company": "samsung"
+    },
+    {
+      "name": "Mi Pad 5",
+      "price": 349,
+      "company": "mi"
+    },
+    {
+      "name": "Dell Inspiron 15",
+      "price": 649,
+      "company": "dell"
+    },
+    {
+      "name": "MacBook Air M2",
+      "price": 1199,
+      "company": "apple"
+    },
+    {
+      "name": "Samsung Galaxy Watch 6",
+      "price": 249,
+      "company": "samsung"
+    },
+    {
+      "name": "Redmi Buds 4",
+      "price": 59,
+      "company": "mi"
+    },
+    {
+      "name": "Dell Alienware M15",
+      "price": 1899,
+      "company": "dell"
+    }
+  ]
+  
